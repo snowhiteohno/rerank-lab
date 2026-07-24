@@ -1,0 +1,52 @@
+[
+  {
+    "query": "reducing hallucination in retrieval augmented generation",
+    "candidates": [
+      { "id": "2607.17883v1", "title": "Zero Hallucination, by Construction", "denseRank": 1, "rerankRank": 1, "relevant": true },
+      { "id": "2607.18756v1", "title": "RAGAL: Frugal Fully Local RAG Assistant", "denseRank": 2, "rerankRank": 2, "relevant": false },
+      { "id": "2607.17535v1", "title": "Salience Induction against Multi-Hop RAG Agents", "denseRank": 3, "rerankRank": null, "relevant": false },
+      { "id": "2607.17538v1", "title": "D-NOVA: In-Storage Retrieval Accelerator", "denseRank": 4, "rerankRank": null, "relevant": false },
+      { "id": "2607.16431v1", "title": "RIMS: Preference Optimization for Small-Scale LLM RAG", "denseRank": 5, "rerankRank": 4, "relevant": true },
+      { "id": "2607.17266v1", "title": "Debate-on-Graph", "denseRank": 20, "rerankRank": 3, "relevant": true },
+      { "id": "2607.19257v1", "title": "Prompt Design at Scale", "denseRank": 11, "rerankRank": 5, "relevant": true }
+    ]
+  },
+  {
+    "query": "why do long contexts hurt reasoning",
+    "candidates": [
+      { "id": "2607.19345v1", "title": "Copy Less, Ground More", "denseRank": 1, "rerankRank": 1, "relevant": true },
+      { "id": "2607.20833v1", "title": "REFACT: Adaptive Fact Restatement", "denseRank": 2, "rerankRank": 2, "relevant": false },
+      { "id": "2607.18915v1", "title": "Reasoning Error from Known Fact", "denseRank": 3, "rerankRank": 3, "relevant": false },
+      { "id": "2607.17715v1", "title": "C2KV: Compressed KV Cache Reuse", "denseRank": 4, "rerankRank": 4, "relevant": false },
+      { "id": "2607.17598v1", "title": "Is Progressive Disclosure All You Need", "denseRank": 5, "rerankRank": 5, "relevant": true }
+    ]
+  },
+  {
+    "query": "evaluating agent tool use",
+    "candidates": [
+      { "id": "2607.18316v1", "title": "Binding Drift in Multi-Step Tool-Augmented Agents", "denseRank": 1, "rerankRank": null, "relevant": true },
+      { "id": "2607.17147v1", "title": "SlotGuard", "denseRank": 2, "rerankRank": null, "relevant": false },
+      { "id": "2607.19913v1", "title": "JANUS: Foreseeing Latent Risk", "denseRank": 3, "rerankRank": null, "relevant": false },
+      { "id": "2607.16989v2", "title": "Real-World Evaluation of an AI Agent Drafting Summaries", "denseRank": 4, "rerankRank": 1, "relevant": false },
+      { "id": "2607.20709v1", "title": "NVIDIA OO Agents", "denseRank": 5, "rerankRank": null, "relevant": false },
+      { "id": "2607.21482v1", "title": "Agentic coding without the cloud", "denseRank": 21, "rerankRank": 2, "relevant": true },
+      { "id": "2607.20645v1", "title": "Frontier Financial Judgement", "denseRank": 10, "rerankRank": 3, "relevant": false },
+      { "id": "2607.17082v1", "title": "Otap: Evaluating Planning and Execution in Agent Trajectories", "denseRank": 20, "rerankRank": 4, "relevant": true },
+      { "id": "2607.20911v1", "title": "Tencent WorkBuddy Bench", "denseRank": 13, "rerankRank": 5, "relevant": true }
+    ]
+  },
+  {
+    "query": "chunking strategies for document retrieval",
+    "candidates": [
+      { "id": "2607.17598v1", "title": "Is Progressive Disclosure All You Need", "denseRank": 1, "rerankRank": 2, "relevant": true },
+      { "id": "2607.17715v1", "title": "C2KV: Compressed KV Cache Reuse", "denseRank": 2, "rerankRank": null, "relevant": false },
+      { "id": "2607.17535v1", "title": "Salience Induction against Multi-Hop RAG Agents", "denseRank": 3, "rerankRank": null, "relevant": false },
+      { "id": "2607.21274v1", "title": "CUP: Greek Book Retrieval Benchmark", "denseRank": 4, "rerankRank": null, "relevant": false },
+      { "id": "2607.17142v2", "title": "Fenced Citation-Context Retrieval for Case Law", "denseRank": 5, "rerankRank": null, "relevant": false },
+      { "id": "2607.21324v1", "title": "GRADRAG", "denseRank": 22, "rerankRank": 1, "relevant": false },
+      { "id": "2607.18102v2", "title": "FinSAgent", "denseRank": 14, "rerankRank": 3, "relevant": false },
+      { "id": "2607.18626v1", "title": "PLAID-PRF", "denseRank": 10, "rerankRank": 4, "relevant": false },
+      { "id": "2607.18756v1", "title": "RAGAL", "denseRank": 19, "rerankRank": 5, "relevant": false }
+    ]
+  }
+]
